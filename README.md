@@ -1,7 +1,7 @@
 # ece8051
 ## References 
-1. ![8051 Instruction set](https://www.win.tue.nl/~aeb/comp/8051/set8051.html#51da)
-2. ![How to run multiple asms from the same project](https://www.keil.com/support/docs/1902.htm) 
+1. [8051 Instruction set](https://www.win.tue.nl/~aeb/comp/8051/set8051.html#51da)
+2. [How to run multiple asms from the same project](https://www.keil.com/support/docs/1902.htm) 
 
 ## Getting started 
 1. Clone the repository 
